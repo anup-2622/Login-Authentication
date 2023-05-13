@@ -1,0 +1,25 @@
+{
+  "name": "login-authentication",
+  "version": "1.0.0",
+  "description": "Login Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startapp":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anup-2622/Login-Authentication.git"
+  },
+  "author": "Anup kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anup-2622/Login-Authentication/issues"
+  },
+  "homepage": "https://github.com/anup-2622/Login-Authentication#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
