@@ -1,0 +1,7 @@
+Express 
+bcrypt
+ejs
+passport
+passport-local 
+express-session
+express-flash
